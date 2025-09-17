@@ -125,8 +125,9 @@ nlu:
     - am I talking to a bot?
     - am I talking to a human?
     - do you understand me at all?
+
 - intent: tell_name
-  examples:
+  examples: |
     - I am [Marco](name)
     - I am [Marco](name)
     - Call me [Patrick](name)
